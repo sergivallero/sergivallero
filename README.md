@@ -7,4 +7,5 @@ I've always been passionate about videogames so I decided to make a living by cr
 The vast majority of my projects are private, some because of them being academic works, the rest being just private projects I wish I could publish/monetize in the future.
 
 ## Some of my most relevant projects 
-![https://store.steampowered.com/app/1986800/Insurrection_Cyborgs_Awakening/](https://raw.githubusercontent.com/sergivallero/sergivallero/master/insurrection_header.png)
+### [Insurrection: Cyborgs Awakening](https://store.steampowered.com/app/1986800/Insurrection_Cyborgs_Awakening/)
+[<img src="https://raw.githubusercontent.com/sergivallero/sergivallero/main/Insurrection_header.jpg">](https://store.steampowered.com/app/1986800/Insurrection_Cyborgs_Awakening/)
