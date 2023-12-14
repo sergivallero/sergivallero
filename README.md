@@ -9,3 +9,5 @@ The vast majority of my projects are private, some because of them being academi
 ## Some of my most relevant projects 
 ### [Insurrection: Cyborgs Awakening](https://store.steampowered.com/app/1986800/Insurrection_Cyborgs_Awakening/)
 [<img src="https://raw.githubusercontent.com/sergivallero/sergivallero/main/Insurrection_header.jpg">](https://store.steampowered.com/app/1986800/Insurrection_Cyborgs_Awakening/)
+
+In this project I worked as part of Chonky Wave, collaborating with other 3 programmers, 5 artists and a designer to bring this game to live as our final project at ESAT. [Trailer](https://www.youtube.com/watch?v=LlmQj7hpYkc&ab_channel=ESATVALENCIA)
